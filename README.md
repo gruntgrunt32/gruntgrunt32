@@ -29,3 +29,6 @@
 - 🤖 Automation enthusiast (Ask me about automating workflows with Python & n8n!).
 
 ---
+## 🌐 Let's Connect!
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121212.svg?style=for-the-badge&logo=github)](https://austin-reed.com)  
+[![Upwork](https://img.shields.io/badge/Upwork-%2336C98C.svg?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~0112329b9885b8f1e1)
