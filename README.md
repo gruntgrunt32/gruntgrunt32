@@ -23,12 +23,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gruntgrunt32&show_icons=true&theme=radical&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gruntgrunt32&layout=compact&theme=radical)
-
----
-
 ### 🌟 Fun Section
 - 🏆 **10+ years** building robust web apps.
 - 🌍 Impacted businesses across various industries.
