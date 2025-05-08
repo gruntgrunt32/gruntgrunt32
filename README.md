@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Full-stack developer and software architect with **10+ years of experience**.
-- 🛠️ Specializing in **Django**, **React**, and building **scalable, custom solutions**.
+- 🛠️ Specializing in **Django**, **React**, **n8n**, and building **scalable, custom solutions**.
 - 🌟 Passionate about solving complex problems and delivering results-driven applications.
 - ⚡ Fun fact: I love coffee ☕, Muay Thai 🥊, and automating everything with Python.
 
